@@ -9,9 +9,6 @@ Using the **TMDB 5000 Movie Dataset**, the system analyzes metadata such as **ge
 
 ---
 
-## UI Preview
-
-> *(Replace the below images with your actual screenshots later)*
 
 <!-- <p align="center">
   <img src="assets/ui-home.png" width="600" alt="Home UI preview"/>
